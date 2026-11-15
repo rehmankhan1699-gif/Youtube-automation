@@ -21,3 +21,16 @@ npx @grok/agent-sdk dev
 ```
 
 See `surah-studio/AGENTS.md` for the develop loop.
+
+## 20s test video
+
+A rendered sample lives at:
+
+`surah-studio/packages/surah-001/test-20s.mp4`
+
+Re-render with:
+
+```bash
+cd surah-studio
+python3 scripts/render_test_20s.py
+```
